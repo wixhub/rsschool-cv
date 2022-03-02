@@ -46,7 +46,7 @@ function reverseString(str) {
 ## Experience
 
 Internship as Frontend Developer | [Yolawo UG](https://yolawo.de/)  
-* May 2021 - December 2021 • Kirchzarten, Germany *
+_May 2021 - December 2021 • Kirchzarten, Germany_
 - Developed a sport club event booking system web applications.
 - Maintained a features: [Rechnungen im System einsehen & verwalten (DE)](https://yolawo.de/2021/09/24/yolawo-update-09-2021/)
 - Implemented user interface and data visualization, resulting in 36% increase in product sales.
@@ -54,19 +54,19 @@ Internship as Frontend Developer | [Yolawo UG](https://yolawo.de/)
 
 ## Education
 
-Rolling Scopes School  
-JavaScript/Front-end course  
-* March 2022 - present *  
+Rolling Scopes School   
+_March 2022 - present_   
+JavaScript/Front-end course 
 
 Bauman Moscow State Technical University 
-* September 2008 - June 2010 • Moscow, Russia *  
+_September 2008 - June 2010 • Moscow, Russia_  
 Faculty • Computer Science And Control Systems  
 Department IU3 • Information Systems and Technologies  
 ⛉ Master of Science  
 GPA: A  
 
 Bauman Moscow State Technical University  
-* September 2002 - June 2004 • Moscow, Russia *  
+_September 2002 - June 2004 • Moscow, Russia_  
 Faculty: Computer Science And Control Systems  
 Department IU5: Computer Science And Computer Engineering  
 ⛉ Bachelor of Science  
