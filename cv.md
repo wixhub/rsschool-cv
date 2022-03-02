@@ -4,7 +4,7 @@
 
 # Jana Semenova
 
-Web Developer
+Web Developer | Frontend | Fullstack
 
 ## Contacts
 
@@ -18,6 +18,9 @@ Web Developer
 ## Summary
 
 With over 6 years of experience in software development, I most focused on developing web applications using Angular framework and TypeScript. When I am solving a problem I am always searching for a better way. Depending on the requirements it could be either the faster solution or the higher quality result. I constantly improve my qualifications and regularly update my professional knowledge following rapid development of web technologies.
+
+[Portfolio](https://portefeuille.bitbucket.io/)
+[GitHub](https://github.com/wixhub)
 
 ## Some of my Skills 🛠
 
@@ -39,3 +42,12 @@ function reverseString(str) {
   return str.split("").reverse().join("");
 }
 ```
+
+## Experience
+
+Internship as Frontend Developer | [Yolawo UG](https://yolawo.de/)
+*May 2021 - December 2021 • Kirchzarten, Germany*
+- Developed a sport club event booking system web applications.
+- Maintained a features: [Rechnungen im System einsehen & verwalten (DE)](https://yolawo.de/2021/09/24/yolawo-update-09-2021/)
+- Implemented user interface and data visualization, resulting in 36% increase in product sales.
+🛠 Angular 11-13, RxJS, NgRx, TypeScript, HTML5, Sass, Jasmin, Karma, Java, Spring, MongoDB, AWS, Git 🛠
