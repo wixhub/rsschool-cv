@@ -49,8 +49,8 @@ Internship as Frontend Developer | [Yolawo UG](https://yolawo.de/)
 _May 2021 - December 2021 • Kirchzarten, Germany_
 - Developed a sport club event booking system web applications.
 - Maintained a features: [Rechnungen im System einsehen & verwalten (DE)](https://yolawo.de/2021/09/24/yolawo-update-09-2021/)
-- Implemented user interface and data visualization, resulting in 36% increase in product sales.
-- 🛠 Angular 11-13, RxJS, NgRx, TypeScript, HTML5, Sass, Jasmin, Karma, Java, Spring, MongoDB, AWS, Git 🛠
+- Implemented user interface and data visualization, resulting in 36% increase in product sales.  
+🛠 Angular 11-13, RxJS, NgRx, TypeScript, HTML5, Sass, Jasmin, Karma, Java, Spring, MongoDB, AWS, Git 🛠
 
 ## Education
 
