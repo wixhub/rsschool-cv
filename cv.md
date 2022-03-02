@@ -8,10 +8,10 @@ Web Developer | Frontend | Fullstack
 
 ## Contacts
 
-- Email .. • jana.semenova@web.de
-- Skype .. • yanasemenova
-- Discord  • wixhub#0725
-- Telegram • @typeweb
+- [Email](mailto:jana.semenova@web.de)
+- [Skype](skype:yanasemenova?chat)
+- [Discord](wixhub#0725)
+- [Telegram](https://t.me/typeweb)
 - [LinkedIn](https://www.linkedin.com/in/jana~semenova/)  
 Location -> Germany | Work Permit
 
