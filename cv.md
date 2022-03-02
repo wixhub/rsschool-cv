@@ -54,19 +54,19 @@ _May 2021 - December 2021 • Kirchzarten, Germany_
 
 ## Education
 
-Rolling Scopes School   
+🏫 Rolling Scopes School   
 _March 2022 - present_   
-JavaScript/Front-end course 
+JavaScript/Front-end online course  
 
-Bauman Moscow State Technical University 
-_September 2008 - June 2010 • Moscow, Russia_  
+🏫 Bauman Moscow State Technical University  
+_September 2008 - June 2010_  
 Faculty • Computer Science And Control Systems  
 Department IU3 • Information Systems and Technologies  
 ⛉ Master of Science  
 GPA: A  
 
-Bauman Moscow State Technical University  
-_September 2002 - June 2004 • Moscow, Russia_  
+🏫 Bauman Moscow State Technical University   
+_September 2002 - June 2004_  
 Faculty: Computer Science And Control Systems  
 Department IU5: Computer Science And Computer Engineering  
 ⛉ Bachelor of Science  
